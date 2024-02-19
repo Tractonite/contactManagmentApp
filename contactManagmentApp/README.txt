@@ -39,4 +39,6 @@ Services: ContactServices.java [interface]
 			2.getContactId(): get an existing contact from the repository.
 			3.updateContactId(): update an existing contact in the repository with a new information.
 			4.deleteContactId(): deletes an existing contact in the repository.
-
+---------------------------------------------
+Results are shown in ContactManagementApp.pdf
+---------------------------------------------
